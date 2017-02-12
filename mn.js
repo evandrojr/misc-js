@@ -17,6 +17,9 @@
         return mn
     }
 
+    // Alias function for console.log, just use log instead of console.log
+    log = window.console.log
+
     var eventSplitter = /\s+/
     var events = {
         on: function (events, callback, context) {
