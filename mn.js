@@ -22,7 +22,8 @@ var log = window.console.log
         return mn
     }
 
-    // vastly simplified `mixin(..)`
+// vastly simplified `mixin(..)` from:
+// https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch4.md
     mn.mixin = function( sourceObj, targetObj ) {
         for (var key in sourceObj) {
             // only copy if not already present
