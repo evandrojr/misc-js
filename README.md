@@ -3,8 +3,12 @@ MiscJS
 
 Miscellaneous JS
 
-* mn.js, a small library
+## mn.js, a tiny js library
 
-Run firefox samples/todos/index.html to see it in action
+* log
+* mixin
+* many other cool features
+
+Run samples/**/index.html to see it in action.
 
 <p>Originally created by <a href="http://github.com/buunguyen">Buu Nguyen</a></p>
