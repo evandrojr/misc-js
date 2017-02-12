@@ -5,7 +5,7 @@ Miscellaneous JS
 
 ## mn.js, a tiny js library
 
-* log
+* logging
 * mixin
 * many other cool features
 
