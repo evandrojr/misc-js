@@ -3,7 +3,7 @@ MiscJS
 
 Miscellaneous JS
 
-* mn.js, a small happy library used by samples which don't (want to) depend on any framework
+* mn.js, a small library
 
 Run firefox samples/todos/index.html to see it in action
 

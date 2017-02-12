@@ -1,3 +1,8 @@
+'use strict';
+
+// Alias function for console.log, just use log instead of console.log
+var log = window.console.log
+
 !function () {
     var previous = this.mn
 
@@ -17,8 +22,6 @@
         return mn
     }
 
-    // Alias function for console.log, just use log instead of console.log
-    log = window.console.log
 
     var eventSplitter = /\s+/
     var events = {
